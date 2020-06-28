@@ -5,4 +5,5 @@
 
 - python中多线程join方法如何理解？
 > [多线程中join()](https://www.cnblogs.com/lyuweigh/p/9568697.html)
+
 > [python多线程编程中的join函数使用心得](https://www.jb51.net/article/54628.htm)
