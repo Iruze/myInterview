@@ -11,6 +11,8 @@
 
 - [SSL/TLS 双向认证(一) – SSL/TLS工作原理](https://blog.csdn.net/ustccw/article/details/76691248)
 
+- [HTTP请求返回状态码整理](https://blog.csdn.net/hualf/article/details/78989618)
+
 # RSA加密算法
 - [RSA加密算法(一)-阮一峰](http://www.ruanyifeng.com/blog/2013/06/rsa_algorithm_part_one.html)
 
