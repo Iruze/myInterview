@@ -13,3 +13,11 @@
 > [多线程中join()](https://www.cnblogs.com/lyuweigh/p/9568697.html)
 
 > [python多线程编程中的join函数使用心得](https://www.jb51.net/article/54628.htm)
+
+
+- python中list和dict的底层实现
+> [python中list的底层实现](https://www.cnblogs.com/tlz888/p/10192243.html)
+
+> [python字典实现原理-哈希函数-解决哈希冲突方法](https://blog.csdn.net/weixin_33781606/article/details/93261816?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-7.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-7.channel_param)
+
+> [Python字典底层实现原理](https://blog.csdn.net/answer3lin/article/details/84523332?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-9&spm=1001.2101.3001.4242)
