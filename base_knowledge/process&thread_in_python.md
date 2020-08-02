@@ -32,7 +32,7 @@
   
 如果一个函数使用了 `yield` 语句，那么它就是一个生成器函数。当调用这个函数时，它返回一个迭代器。当第一次调用 `__next__()` 时候，生成器函数主体开始执行，遇到 `yield` 表达式时候终止。
 
-当使用`__next__()`方法时候，`yield value`语句返回`None`；当使用`send(v)`方法时候，yield value返回v。也就是说，`__next__()`方法相当于`send(None)`方法
+当使用`__next__()`方法时候，`yield value`语句返回`None`；当使用`send(v)`方法时候，`yield value`返回`v`。也就是说，`__next__()`方法相当于`send(None)`方法
 </details>
 
 ```python3
