@@ -4,6 +4,11 @@
 
 - [DNS递归查询与迭代查询](https://www.cnblogs.com/qingdaofu/p/7399670.html)
 
+#### tcp拔掉网线之后发生了什么？     
+- [TCP socket拔网线判断](https://www.cnblogs.com/mayingkun/p/8076045.html)
+- [TCP连接拔掉网线后会发生什么](https://blog.csdn.net/larry_zeng1/article/details/78437050?utm_source=blogxgwz9)
+- [TCP长连接和短连接的区别](https://blog.csdn.net/yanglianzhuang/article/details/87966866)
+
 # HTTP & HTTPS
 - [https 建立连接过程](https://www.cnblogs.com/felixzh/p/8316710.html)
 
