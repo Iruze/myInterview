@@ -26,7 +26,7 @@
 #### python协成实现 生产者－消费者
 参考：　https://www.cnblogs.com/fcyworld/p/6275563.html
 
-协程的实现为协作式而非抢占式的，这是和进程线程的最大区别。在Python中，利用yield和send可以很容易实现协程。
+协程的实现为协作式而非抢占式的，这是和进程线程的最大区别。在Python中，利用`yield`和`send`可以很容易实现协程。
 <details>
   <summary>首先复习下生成器</summary>
   
