@@ -9,6 +9,9 @@
 - [TCP连接拔掉网线后会发生什么](https://blog.csdn.net/larry_zeng1/article/details/78437050?utm_source=blogxgwz9)
 - [TCP长连接和短连接的区别](https://blog.csdn.net/yanglianzhuang/article/details/87966866)
 
+#### 理解rpc
+- [从 0 到 1：全面理解 RPC 远程调用！](https://baijiahao.baidu.com/s?id=1637758852641939872&wfr=spider&for=pc)
+
 # HTTP & HTTPS
 - [https 建立连接过程](https://www.cnblogs.com/felixzh/p/8316710.html)
 
