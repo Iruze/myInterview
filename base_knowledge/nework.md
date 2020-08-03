@@ -24,6 +24,9 @@
 
 - [HTTP请求返回状态码整理](https://blog.csdn.net/hualf/article/details/78989618)
 
+#### 什么是短链接
+- [短网址(short URL)系统的原理及其实现](https://segmentfault.com/a/1190000012088345?utm_source=tag-newest)
+
 # RSA加密算法
 - [RSA加密算法(一)-阮一峰](http://www.ruanyifeng.com/blog/2013/06/rsa_algorithm_part_one.html)
 
