@@ -32,3 +32,20 @@
 
 - [RSA加密算法(二)-阮一峰](http://www.ruanyifeng.com/blog/2013/07/rsa_algorithm_part_two.html)
 
+<details>
+    <summary>RSA算法小结</summary>
+
+公私钥选择:
+```shell
+1). 选取质数p, q, 得到 n = p * q
+2). 欧拉函数 &(n) = (p - 1)(q - 1)
+3). 选e, 1 < e < &(n), 且e, &(n)互质
+4). 选d, ed % &(n) = 1
+``` 
+
+加密过程:
+```shell
+加密: c = m^e % n
+解密: m = c^d % n
+```
+</details>
