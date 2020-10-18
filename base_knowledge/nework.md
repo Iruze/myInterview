@@ -49,7 +49,7 @@
 
 加密过程:
 ```shell
-加密: c = m^e % n
-解密: m = c^d % n
+加密: x' = x^e % n
+解密: x = x'^d % n
 ```
 </details>
