@@ -32,3 +32,22 @@
 # [[ $tel =~ [0-9]{11} ]]  # 有4个空格
 # echo $?
 ```
+
+### sed
+[Linux sed 命令](https://www.runoob.com/linux/linux-comm-sed.html)
+
+sed
+- 删除含有关键字的行：
+```shell
+sed -i '/^export zzw=1/d' test
+```
+- 匹配到 test 中 zzw = 1 中的值1
+```shell
+sed -n '/license_modle = vm/p' test | awk -F'=' '{print $2}'
+```
+- 去掉字符串左右的空格
+```shell
+t=' ABC'
+t1=`echo $t`
+echo $t1 (ABC, 去掉了空格)
+```
