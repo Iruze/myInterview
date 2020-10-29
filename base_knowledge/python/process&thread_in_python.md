@@ -9,6 +9,7 @@
 #### 什么是协成
 <details>
   <summary>展开</summary>
+  
   协程是一种用户态的轻量级线程，协程的调度完全由用户控制。协程拥有自己的寄存器上下文和栈。协程调度切换时，将寄存器上下文和栈保存到其他地方，在切回来的时候，恢复先前保存的寄存器上下文和栈，直接操作栈则基本没有内核切换的开销，可以不加锁的访问全局变量，所以上下文的切换非常快。
 </details>
 
@@ -24,16 +25,18 @@
 </details>
 
 #### python协成实现 生产者－消费者
+
+<details>
+    <summary>首先复习下生成器</summary>
+  
 参考：　https://www.cnblogs.com/fcyworld/p/6275563.html
 
 协程的实现为协作式而非抢占式的，这是和进程线程的最大区别。在Python中，利用`yield`和`send`可以很容易实现协程。
-<details>
-  <summary>首先复习下生成器</summary>
+
   
 如果一个函数使用了 `yield` 语句，那么它就是一个生成器函数。当调用这个函数时，它返回一个迭代器。当第一次调用 `__next__()` 时候，生成器函数主体开始执行，遇到 `yield` 表达式时候终止。
 
 当使用`__next__()`方法时候，`yield value`语句返回`None`；当使用`send(v)`方法时候，`yield value`返回`v`。也就是说，`__next__()`方法相当于`send(None)`方法
-</details>
 
 ```python3
 def consumer()
@@ -54,3 +57,35 @@ c.__next__()                                   #手动启动生成器，注意�
 for i in productor():
     c.send(i)
 ```
+</details>
+
+#### python用装饰器实现一个单例模式
+
+<details>
+    <summary>实现</summary>
+    
+```python
+#!/usr/bin/python
+
+# -*- coding: utf-8 -*-
+import time
+import functools
+
+
+# 使用装饰器实现单例模式
+def singleton(cls):
+    instance = {}
+
+    @functools.wraps(cls)
+    def _inst(*args, **kwargs):
+        if cls not in instance:
+            instance[cls] = cls(*args, **kwargs)
+        return instance[cls]
+    return _inst
+
+
+@singleton
+class A:
+    pass
+``` 
+</details>
