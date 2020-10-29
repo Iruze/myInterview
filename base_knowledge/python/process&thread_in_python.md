@@ -39,7 +39,7 @@
 当使用`__next__()`方法时候，`yield value`语句返回`None`；当使用`send(v)`方法时候，`yield value`返回`v`。也就是说，`__next__()`方法相当于`send(None)`方法
 
 ```python3
-def consumer()
+def consumer():
     while True:
         line = yield                            #line接收的是yield这个表达式的返回值！
         print(line.upper())
