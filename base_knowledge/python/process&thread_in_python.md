@@ -4,6 +4,9 @@
 
 - [Python进程、线程、协程详解](https://www.cnblogs.com/zhangliang91/p/10547551.html)
 
+- [python详解threading模块:Condition类的使用](https://blog.csdn.net/brucewong0516/article/details/84587522)
+
+- [leetcode多线程多进程题解](https://github.com/Iruze/SolutionsOnLeetcodeForZZW/blob/master/SolutionsSummary/%E5%A4%9A%E7%BA%BF%E7%A8%8B%26%E5%A4%9A%E8%BF%9B%E7%A8%8B.md)
 
 # python中的协程
 #### 什么是协程
