@@ -18,7 +18,7 @@
 - python中的垃圾回收机制
 > [Python中的垃圾回收机制](https://blog.csdn.net/u012294618/article/details/83181011)
 
-> [Python垃圾回收机制--完美讲解!](https://www.runoob.com/w3cnote/python-func-decorators.html)
+> [Python垃圾回收机制--完美讲解!](https://www.jianshu.com/p/1e375fb40506)
 
 
 ### 数据结构
