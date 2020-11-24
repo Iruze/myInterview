@@ -51,3 +51,35 @@ t=' ABC'
 t1=`echo $t`
 echo $t1 (ABC, 去掉了空格)
 ```
+
+### python中的正则表达式匹配re
+
+[如何用python正则表达式匹配字符串？](https://www.php.cn/python-tutorials-451669.html)
+
+- 获取`vswitch`的名字
+```python
+import re
+re.findall(r'.*:(.*)', 'icicvlan1:VSICIC')
+
+# 输出
+# VSICIC
+```
+
+贪婪匹配和非贪婪匹配
+```python
+import re
+
+str = "a123b456b"
+
+print re.findall(r"a(.+?)b", str)
+
+#输出['123']#?控制只匹配0或1个,所以只会输出和最近的b之间的匹配情况
+
+print re.findall(r"a(.+)b", str)
+
+#输出['123b456']
+
+print re.findall(r"a(.*)b", str)
+
+#输出['123b456']
+```
