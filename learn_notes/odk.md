@@ -24,3 +24,9 @@
     
 - [openstack基础之python WSGI,paste,Routes,webob](https://blog.csdn.net/happyanger6/article/details/54518491#commentBox)
 </details>
+
+
+openstack创建vm源码分析
+- [OpenStack 源码阅读－创建虚拟机（一）](https://blog.csdn.net/LL_JCB/article/details/80218680)
+- [openstack代码层面剖析虚拟机创建完整流程](https://www.jianshu.com/p/3c7cc267e067)
+- [openstack-nova源码分析(二）断点调试方法](https://blog.csdn.net/comprel/article/details/88933534)
