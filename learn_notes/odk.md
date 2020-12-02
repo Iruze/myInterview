@@ -10,10 +10,9 @@
 
 
 - [openstack中的eventlet]
-
 <details>
     <summary>解法</summary>
     
-    - [Openstack源代码分析之Eventlet](https://blog.csdn.net/bluefire1991/article/details/13205617?utm_medium=distribute.pc_relevant.none-task-blog-title-10&spm=1001.2101.3001.4242)
-    - [Python eventlet](https://blog.csdn.net/youyou1543724847/article/details/71404145)
+- [Openstack源代码分析之Eventlet](https://blog.csdn.net/bluefire1991/article/details/13205617?utm_medium=distribute.pc_relevant.none-task-blog-title-10&spm=1001.2101.3001.4242)
+- [Python eventlet](https://blog.csdn.net/youyou1543724847/article/details/71404145)
 </details>
