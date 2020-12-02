@@ -15,4 +15,12 @@
     
 - [Openstack源代码分析之Eventlet](https://blog.csdn.net/bluefire1991/article/details/13205617?utm_medium=distribute.pc_relevant.none-task-blog-title-10&spm=1001.2101.3001.4242)
 - [Python eventlet](https://blog.csdn.net/youyou1543724847/article/details/71404145)
+- [花了两个星期，我终于把 WSGI 整明白了](https://blog.csdn.net/cqcre/article/details/93268607?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
+</details>
+
+- openstack中的wsgi
+<details>
+    <summary>解法</summary>
+    
+- [openstack基础之python WSGI,paste,Routes,webob](https://blog.csdn.net/happyanger6/article/details/54518491#commentBox)
 </details>
