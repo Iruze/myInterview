@@ -7,3 +7,13 @@
 - [Linux资源管理之cgroups简介](https://tech.meituan.com/2015/03/31/cgroups.html)
 - [浅谈Linux Cgroups机制](https://zhuanlan.zhihu.com/p/81668069)
 </details>
+
+
+- [openstack中的eventlet]
+
+<details>
+    <summary>解法</summary>
+    
+    - [Openstack源代码分析之Eventlet](https://blog.csdn.net/bluefire1991/article/details/13205617?utm_medium=distribute.pc_relevant.none-task-blog-title-10&spm=1001.2101.3001.4242)
+    - [Python eventlet](https://blog.csdn.net/youyou1543724847/article/details/71404145)
+</details>
