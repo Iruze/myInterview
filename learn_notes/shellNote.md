@@ -85,3 +85,10 @@ print re.findall(r"a(.*)b", str)
 ret_code = re.findall(r'.*Return Code:\s*(\d*).*', cmdOutput,
                                           flags=re.IGNORECASE)[0]
 ```
+
+- 获取`icic-services status`中`status`
+```python
+t = 'abdc\n\\r Active: active (running) \nabc'
+# ([^ ]*)匹配':'之后的非空字符串
+ans = re.findall(r'Active:[ ]*([^ (]+)', t)
+```
