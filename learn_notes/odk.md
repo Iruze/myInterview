@@ -31,3 +31,7 @@ openstack创建vm源码分析
 - [openstack代码层面剖析虚拟机创建完整流程](https://www.jianshu.com/p/3c7cc267e067)
 - [openstack-nova源码分析(二）断点调试方法](https://blog.csdn.net/comprel/article/details/88933534)
 - [openstack创建一个虚拟机的过程](https://blog.csdn.net/u010653908/article/details/72121559)
+- [Python Paste 学习笔记](https://cloud.tencent.com/developer/article/1565464)
+
+
+- [深入理解 nova-api 的 WSGI](http://wsfdl.com/openstack/2013/10/18/%E7%90%86%E8%A7%A3nova-api%E7%9A%84WSGI%E6%A1%86%E6%9E%B6.html)
