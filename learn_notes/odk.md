@@ -6,6 +6,8 @@
 - [Linux 环境隔离机制 -- Linux Namespace](https://zhuanlan.zhihu.com/p/47571649)
 - [Linux资源管理之cgroups简介](https://tech.meituan.com/2015/03/31/cgroups.html)
 - [浅谈Linux Cgroups机制](https://zhuanlan.zhihu.com/p/81668069)
+- [理解Docker（3）：Docker 使用 Linux namespace 隔离容器的运行环境](https://www.cnblogs.com/sammyliu/p/5878973.html)
+- [理解Docker（4）：Docker 容器使用 cgroups 限制资源使用](https://www.cnblogs.com/sammyliu/p/5886833.html)
 </details>
 
 
