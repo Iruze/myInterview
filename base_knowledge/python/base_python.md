@@ -34,6 +34,9 @@
 
 > [Python 函数装饰器](https://www.runoob.com/w3cnote/python-func-decorators.html)
 
+- __call__方法
+> [理解Python_魔法方法__call__](https://blog.csdn.net/xie_0723/article/details/79505131?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.control)
+
 
 ### python其他
 - 什么是.pyc文件和.pyo文件?
