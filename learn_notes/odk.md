@@ -38,3 +38,6 @@ openstack创建vm源码分析
 - 重点
 - [深入理解 nova-api 的 WSGI](http://wsfdl.com/openstack/2013/10/18/%E7%90%86%E8%A7%A3nova-api%E7%9A%84WSGI%E6%A1%86%E6%9E%B6.html)
 - [openstack 中的WSGI](https://blog.csdn.net/luzheqi/article/details/41252255)
+
+openstack中的rpc和消息队列
+- [利用 OpenStack 全面理解 RPC 远程调用](https://iswbm.com/136.html)
