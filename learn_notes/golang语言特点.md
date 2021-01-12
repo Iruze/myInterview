@@ -2,7 +2,7 @@
 
 - [golang对比python](https://blog.csdn.net/jiangjunshow/article/details/96720472)
 
-go语言特性:     
+<<go语言编程>>-go语言特性:     
 ```shell
 - 自动垃圾回收机制
 - 更丰富的内置类型
