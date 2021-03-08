@@ -46,4 +46,5 @@
 - [Python什么情况下会生成pyc文件？ - 知乎用户的回答 - 知乎](https://www.zhihu.com/question/30296617/answer/112564303)
 
 - 什么是monkey patch         
-[python面试题精讲——monkey patch（猴子补丁）](https://cloud.tencent.com/developer/article/1441252)
+[python面试题精讲——monkey patch（猴子补丁）](https://cloud.tencent.com/developer/article/1441252)        
+[monkey patch解惑](https://zhuanlan.zhihu.com/p/37679547)
