@@ -44,3 +44,6 @@
 .pyo文件也是优化（注意这两个字，便于后续的理解）编译后的程序（相比于.pyc文件更小），也可以提高加载速度。但对于嵌入式系统，它可将所需模块编译成.pyo文件以减少容量。
 
 - [Python什么情况下会生成pyc文件？ - 知乎用户的回答 - 知乎](https://www.zhihu.com/question/30296617/answer/112564303)
+
+- 什么是monkey patch         
+[python面试题精讲——monkey patch（猴子补丁）](https://cloud.tencent.com/developer/article/1441252)
