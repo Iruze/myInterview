@@ -5,3 +5,9 @@
 
 
 - [分段、分页&&内存碎片、外存碎片](https://www.cnblogs.com/axing-articles/p/11409998.html)
+
+
+
+- SIGINT, SIGTERM, SIGKILL的区别       
+    [SIGINT SIGTERM SIGKILL区别](https://www.cnblogs.com/alexyuyu/articles/3853583.html)        
+    [SIGTERM、SIGKILL、SIGINT和SIGQUIT的区别](https://blog.csdn.net/dai_xiangjun/article/details/41871647)      
