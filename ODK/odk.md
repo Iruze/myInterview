@@ -41,3 +41,7 @@ openstack创建vm源码分析
 
 openstack中的rpc和消息队列
 - [利用 OpenStack 全面理解 RPC 远程调用](https://iswbm.com/136.html)
+
+
+openstack nova scheduler分析
+- [深挖Openstack Nova - Scheduler调度策略（1）](https://blog.csdn.net/u011692924/article/details/80578686)
