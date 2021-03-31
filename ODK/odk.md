@@ -45,3 +45,9 @@ openstack中的rpc和消息队列
 
 openstack nova scheduler分析
 - [深挖Openstack Nova - Scheduler调度策略（1）](https://blog.csdn.net/u011692924/article/details/80578686)
+
+
+openstack创建vm流程分析
+- [openstack 创建虚拟机过程](https://www.jianshu.com/p/a5138ad4f949)
+- [OpenStack Nova虚拟机创建流程解析](https://yikun.github.io/2017/09/27/OpenStack-Nova%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%88%9B%E5%BB%BA%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/)
+- [OpenStack创建虚拟机流程](https://www.cnblogs.com/luohaixian/p/12368164.html)
