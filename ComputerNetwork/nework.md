@@ -58,3 +58,13 @@
 # iptables规则
 - [iptables详解及一些常用规则](https://www.jianshu.com/p/ee4ee15d3658)           
 - [iptables详解及docker的iptables规则](https://blog.csdn.net/m0_49946916/article/details/109277325)
+- [iptables规则链执行顺序](https://blog.csdn.net/houlc/article/details/7089436)
+
+五链执行顺序:         
+```shell
+# 如果符合规则, 执行的后续操作
+1)跳过, 执行下一个规则:    ACCEPT, REJECT, MASQUERADE, SNAT, DNAT
+2)中断: DROP
+3)继续执行下一条规则: LOG
+4)退出当前子规则链, 返回主规则链: RETURN
+```
