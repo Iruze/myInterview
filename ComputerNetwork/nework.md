@@ -63,8 +63,8 @@
 五链执行顺序:         
 ```shell
 # 如果符合规则, 执行的后续操作
-1)跳过, 执行下一个规则:    ACCEPT, REJECT, MASQUERADE, SNAT, DNAT
-2)中断: DROP
-3)继续执行下一条规则: LOG
+1)跳过, 执行下一个规则:         ACCEPT, REJECT, MASQUERADE, SNAT, DNAT
+2)中断:                       DROP
+3)继续执行下一条规则:           LOG
 4)退出当前子规则链, 返回主规则链: RETURN
 ```
