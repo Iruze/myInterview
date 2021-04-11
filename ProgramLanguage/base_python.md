@@ -11,9 +11,9 @@
 > [PyPy 为什么会比 CPython 还要快？](https://www.zhihu.com/question/19588346)
 
 - python中多线程join方法如何理解？
-> [多线程中join()](https://www.cnblogs.com/lyuweigh/p/9568697.html)
+> [多线程中的join()方法，你了解多少？](https://zhuanlan.zhihu.com/p/99374488)
 
-> [python多线程编程中的join函数使用心得](https://www.jb51.net/article/54628.htm)
+> [多线程中join()](https://www.cnblogs.com/lyuweigh/p/9568697.html)
 
 - python中的垃圾回收机制
 > [Python中的垃圾回收机制](https://blog.csdn.net/u012294618/article/details/83181011)
