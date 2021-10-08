@@ -110,7 +110,9 @@ produce(c)
 [CONSUMER] Consuming 5...
 [PRODUCER] Consumer return: 200 OK               
 ```
-
+- 参考： [python中yield的用法详解——最简单，最清晰的解释](https://blog.csdn.net/mieleizhi0522/article/details/82142856)
+                
+                
 </details>
 
 #### python用装饰器实现一个单例模式
