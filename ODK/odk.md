@@ -35,7 +35,7 @@ openstack创建vm源码分析
 - [openstack创建一个虚拟机的过程](https://blog.csdn.net/u010653908/article/details/72121559)
 - [Python Paste 学习笔记](https://cloud.tencent.com/developer/article/1565464)
 - [OpenStack虚拟机创建流程](https://blog.csdn.net/sj349781478/article/details/105934505)
-- [OpenStack创建虚拟机流程](https://blog.csdn.net/a755142155/article/details/103893257)
+- [OpenStack创建虚拟机过程](https://blog.csdn.net/u013469753/article/details/110632067?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165044097516780366599609%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=165044097516780366599609&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_ecpm_v1~rank_v31_ecpm-30-110632067.nonecase&utm_term=openstack&spm=1018.2226.3001.4450)
 
 - 重点
 - [深入理解 nova-api 的 WSGI](http://wsfdl.com/openstack/2013/10/18/%E7%90%86%E8%A7%A3nova-api%E7%9A%84WSGI%E6%A1%86%E6%9E%B6.html)
